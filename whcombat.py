@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import configparser
 import random
-
+#newlinecomment
 
 # ... [previous functions, including roll_d100, get_hit_location, critical_hit, etc.]
 def roll_d10():
